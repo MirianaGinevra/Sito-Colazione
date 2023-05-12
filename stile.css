@@ -1,0 +1,111 @@
+
+
+body {
+    background-repeat: no-repeat;
+    background-color:#f8a7c8;
+   background-image: url(background.png);
+    background-position:top;
+    background-size:1000px;
+}
+header{     
+    font-family:sans-serif;
+    line-height:500px;
+    font-size: 40px;
+    font-weight:bold;
+    text-align: center;
+    margin:auto;
+
+}
+
+main {
+    padding-inline-start: 20px;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height:20px ;
+    font-style:normal;
+    font-weight: lighter;
+    padding-inline-start: 20px;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height:20px ;
+    font-style:normal;
+    font-weight: lighter;
+    margin:auto;
+    }
+    .first{text-align: left;
+    color:#841110;
+    }
+    .second{text-align: right;
+    color:#841110;
+    }
+        img { max-width:max-content;
+            margin-right: 600px;
+            margin-block-start:-150px;
+        }
+        { font-size: 20px;
+            text-align: left;
+            color:#000000;
+        }
+        .ita{font-size: 16px;
+        color:#841110;
+        -webkit-font-smoothing: antialiased;}
+        .ru{ font-size: 16px;
+        color:#841110;
+        text-align: center;
+        -webkit-font-smoothing: antialiased;}
+        .fr{ font-size: 16px;
+            color:#841110;
+            text-align: right;
+            margin-block-start: -350px;
+            -webkit-font-smoothing: antialiased;}
+        .tazza{ margin-inline-end:500px;
+            margin-block-start: 100px;
+        margin-inline:left ;}
+        .cornetto{ margin-block-start: -20px;
+            margin-inline-end:-1110px;
+        }
+        nav { font-size: 20px;
+            text-align: left;
+            color:#000000;
+        }
+        .gr {font-size: 16px;
+            margin-block-start: 200px;
+            margin-inline:left ;
+            color:#841110;
+            -webkit-font-smoothing: antialiased;}
+        .eng{font-size: 16px;
+            color:#841110;
+            margin-left: 550px;
+            margin-block-start: -350px;
+            -webkit-font-smoothing: antialiased;} 
+            .bacon {margin-block-start:150px;
+                margin-left:-150px;}
+                .uova{ margin-left:200px}
+        .de {font-size: 16px;
+            color:#841110;
+            margin-left: 500px;
+            margin-block-start:-300px;
+            -webkit-font-smoothing: antialiased;} 
+       
+       .fine{
+            margin-right: 480px;
+            margin-block-start: 200px;
+       }
+       footer{
+        font-size:16px;
+        margin-right: 650px;
+        margin-block-start: 150px;
+        text-align: center;
+   }
+            
+      
+        
+    
+
+
+    
+
+    
+
+
+
